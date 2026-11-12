@@ -5,7 +5,7 @@ using Newtonsoft.Json.Linq;
 using UnityEngine;
 using UnityEngine.Networking;
 
-public class uio : MonoBehaviour
+public class uio_ : MonoBehaviour
 {
     public string url = "https://cnc.kovalev.team/get/3";
     public int channel = 1;
